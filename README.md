@@ -1,5 +1,4 @@
 # Eye Exercise
-# PacMan Exercise
 <img src='oneeye.png'>
 
 In this exercise I built a simulation of two eyes that follow the users mouse movement.  This exercise brings together my skills in JavaScript and CSS.
